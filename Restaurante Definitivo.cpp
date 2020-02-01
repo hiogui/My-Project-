@@ -35,7 +35,7 @@ noPtr busca_cliente(int x) {
 }
 void pedido() {
     int x;
-    cout << "_______________________" << endl;
+    cout << "____________" << endl;
     cout << "Entre com o codigo do cliente: ";
     cin >> x;
  noPtr cli = busca_cliente(x);
